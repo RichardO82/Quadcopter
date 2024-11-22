@@ -5,4 +5,4 @@ Quadcopter project built from scratch: hardware, flight control PCB and firmware
 
 
 https://youtu.be/GqNNZwK2zFc
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/RichardO82/Quadcopter/blob/main/QP-Small-300x183.jpg))](https://youtu.be/GqNNZwK2zFc)
+[![Watch the video](https://github.com/RichardO82/Quadcopter/blob/main/QP-Small-300x183.jpg)](https://youtu.be/GqNNZwK2zFc)
