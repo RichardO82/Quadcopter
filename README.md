@@ -12,7 +12,7 @@ PCB Pictures:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/FC_Board.jpg)
 
 
-Parallel Processing "Cog" Allocation Chart:
+Parallel Processing "Cog" Allocation Chart (Not all fuctionality implemented [yet?]):
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/Cog_Allocation_Chart.jpg)
 
 
@@ -20,7 +20,7 @@ PCB Layout:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PCB_Layout.jpg)
 
 
-PID Control Chart (GPS functionality not implemented [yet?]):
+PID Control Chart (Not all fuctionality implemented [yet?]):
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PID_Chart.jpg)
 
 
