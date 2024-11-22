@@ -10,3 +10,5 @@ Watch the Video:
 
 
 ![alt text](![alt text](https://github.com/RichardO82/Quadcopter/blob/main/FC_Board.jpg)
+
+![alt text](![alt text](https://github.com/RichardO82/Quadcopter/blob/main/Cog_Allocation_Chart.jpg)
