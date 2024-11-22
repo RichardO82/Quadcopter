@@ -14,3 +14,11 @@ Watch the Video:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PCB_Layout.jpg)
 
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PID_Chart.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P0.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P1.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P2.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P3.jpg)
