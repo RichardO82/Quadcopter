@@ -12,3 +12,5 @@ Watch the Video:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/Cog_Allocation_Chart.jpg)
 
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PCB_Layout.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/PID_Chart.jpg)
