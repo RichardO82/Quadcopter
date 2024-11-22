@@ -9,6 +9,6 @@ Watch the Video:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/4%20chip%20pcb.jpg)
 
 
-![alt text](![alt text](https://github.com/RichardO82/Quadcopter/blob/main/FC_Board.jpg)
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/FC_Board.jpg)
 
-![alt text](![alt text](https://github.com/RichardO82/Quadcopter/blob/main/Cog_Allocation_Chart.jpg)
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/Cog_Allocation_Chart.jpg)
