@@ -25,18 +25,27 @@ PID Control Chart (Not all fuctionality implemented [yet?]):
 
 
 PCB Schematics:
+
+P0 Chip:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P0.jpg)
 
+P1 Chip:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P1.jpg)
 
+P2 Chip:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P2.jpg)
 
+P3 Chip:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P3.jpg)
 
+ADCs, battery cell ballance monitoring, MSP430 heartbeat signal monitoring and automatic reboot:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20Battery%20and%20Reboot.jpg)
 
+Connectors for Comms, microSD data logging:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20Comms.jpg)
 
+Power rails:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20Power.jpg)
 
+Motor servo outputs:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20Servos.jpg)
