@@ -22,3 +22,5 @@ Watch the Video:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P2.jpg)
 
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20P3.jpg)
+
+![alt text](https://github.com/RichardO82/Quadcopter/blob/main/SCH%20Battery%20and%20Reboot.jpg)
