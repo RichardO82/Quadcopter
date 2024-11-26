@@ -1,5 +1,5 @@
 # Quadcopter
-Quadcopter project built from scratch: hardware, flight control PCB and firmware.  Project spanned roughly from 2011 to 2015.
+Quadcopter project built from scratch: hardware, flight control PCB and firmware, from 2015.
 
 
 Watch the Video:
