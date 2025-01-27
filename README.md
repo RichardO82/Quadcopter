@@ -6,7 +6,7 @@ This project uses four Parallax Propeller microcontrollers and one MSP430.  The 
 I made this project early in my electronics journey, so take my labelling, commenting, and quirky engineering with a grain of salt.  The PID algorithms are really just PI, but the important thing is it works.  I'm considering remaking this project with modern tech and doing a video series on how to build a quadcopter.
 
 
-Watch the Video:
+Watch a video of the quadcopter flying:
 [![Watch the video](https://github.com/RichardO82/Quadcopter/blob/main/QP-Small-300x183.jpg)](https://youtu.be/GqNNZwK2zFc)
 
 
