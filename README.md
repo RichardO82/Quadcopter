@@ -10,7 +10,7 @@ Watch a video of the quadcopter flying:
 [![Watch the video](https://github.com/RichardO82/Quadcopter/blob/main/QP-Small-300x183.jpg)](https://youtu.be/GqNNZwK2zFc)
 
 
-PCB Pictures:
+PCB prototyping pictures:
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/4%20chip%20pcb.jpg)
 
 ![alt text](https://github.com/RichardO82/Quadcopter/blob/main/FC_Board.jpg)
