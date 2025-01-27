@@ -1,5 +1,7 @@
 # Quadcopter
-Quadcopter project built from scratch: hardware, flight control PCB and firmware, from 2015.
+Quadcopter project built from scratch: hardware, flight control PCB and firmware, ground control software, from 2015.
+
+This project uses four Parallax Propeller microcontrollers and one MSP430.  The Propeller firmware is written in Parallax's spin language.  The MSP430 and ground station use C/C++.  Communication is through Xbee radios for the ground station and standard RC receiver and transmitter for RC flying.
 
 
 Watch the Video:
